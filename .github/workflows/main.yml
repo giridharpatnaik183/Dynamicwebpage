@@ -1,7 +1,7 @@
 # Define the Trigger
 name: Continuous Integration
 
- 
+
 
 on:
   push:
